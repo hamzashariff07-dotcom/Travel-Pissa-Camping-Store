@@ -1,0 +1,29 @@
+div{
+    padding: 10px;
+    border-color:rgb(44, 51, 11);
+    text-align: center;
+    background-color: rgb(131, 127, 74);
+    color: rgb(97, 79, 31);
+    border:1px solid rgb(117, 81, 34) ;
+}
+
+button{
+    border-radius: 4px;
+    background-color: rgb(143, 129, 93);
+    text-align: center;
+    height: 35px;
+    width:  100px;
+   
+}
+
+body{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 80vh;
+    text-decoration: dashed;
+    text-shadow:none;
+    background-color: white;
+    color: rgb(18, 18, 39);
+}

@@ -1,0 +1,23 @@
+.abo{
+    text-align: center;
+    align-items: center;
+    text-decoration: none;
+}
+.img{
+    text-align: center;
+    align-items: center;
+    text-decoration: none;
+    image-orientation: flip;
+    border-image: fill;
+    
+}
+.about {
+    font-size: medium;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.hm {
+    align-items: center;
+    text-align: center;
+    color: black;
+}
